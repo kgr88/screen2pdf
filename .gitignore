@@ -1,0 +1,14 @@
+# PyInstaller output (rebuild with build_exe.bat)
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Saved PDFs / screenshots
+*.pdf
+*.png
